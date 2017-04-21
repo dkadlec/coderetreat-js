@@ -1,0 +1,23 @@
+{
+  "name": "coderetreat-js",
+  "version": "0.0.1",
+  "description": "productboard coderetreat",
+  "private": true,
+  "scripts": {
+    "start": "./bin/devserver",
+    "dev": "webpack -w",
+    "build": "webpack"
+  },
+  "author": "productboard",
+  "contributors": [
+    "David Kadlec <david@productboard.com> (https://github.com/dkadlec)"
+  ],
+  "license": "Copyright (c) 2017-present, ProductBoard, Inc.",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0"
+  },
+  "devDependencies": {
+    "node-dev": "^3.1.3"
+  }
+}
