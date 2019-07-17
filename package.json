@@ -14,8 +14,8 @@
   ],
   "license": "Copyright (c) 2017-present, ProductBoard, Inc.",
   "dependencies": {
-    "express": "^4.15.2",
-    "express-handlebars": "^3.0.0"
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0"
   },
   "devDependencies": {
     "node-dev": "^3.1.3"
